@@ -1,7 +1,26 @@
 {
   "dependencies": {
+    "body-parser": "^1.20.3",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "mongoose": "^8.13.0"
-  }
+  },
+  "name": "centivo_node_mongodb",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shining-star123/Centivo_Node_MongoDB.git"
+  },
+  "author": "Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shining-star123/Centivo_Node_MongoDB/issues"
+  },
+  "homepage": "https://github.com/shining-star123/Centivo_Node_MongoDB#readme",
+  "description": ""
 }
